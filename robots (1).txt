@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# AI search / answer engines — explicitly welcome
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+Sitemap: https://manojstars.github.io/Website-2/sitemap.xml
